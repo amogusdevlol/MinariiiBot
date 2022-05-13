@@ -1,6 +1,6 @@
 {
     "name": "MinariiiBot",
-    "version": "1.2.14",
+    "version": "2.0.6",
     "description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
     "main": "mirai.js",
     "scripts": {
@@ -10,9 +10,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/amogusdevlol/miraiv2.git"
+        "url": "git+https://github.com/amogusdevlol/MinariiiBot.git"
     },
-    "author": "D-Jukie",
+    "author": "AmogusDevLOL",
     "license": "GPL-3.0",
     "dependencies": {
         "simple-youtube-api": "",
